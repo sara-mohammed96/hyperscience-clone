@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.partnerships {
+    margin-top: 20rem;
+    position: relative;
+   
+}
+.partnerships__wrapper {
+    padding:10rem 0;
+    padding-top: 0;
+    gap:10rem;
+    position: relative;
+    align-items: center;
+    flex-direction: column;
+}
+.partnerships__wrapper2 {
+    padding:10rem 0;
+    padding-top: 0;
+    gap:10rem;
+    position: relative;
+    align-items: center;
+    flex-direction: column;
+}
